@@ -1,5 +1,4 @@
-# ctf-writeups
-Writeups and solutions from CTF challenges covering web security, cryptography, forensics, reverse engineering, and more.
+
 # CTF Writeups
 
 A collection of my cybersecurity CTF writeups, solutions, notes, and lessons learned.
